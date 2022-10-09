@@ -19,6 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL: create user, database, grant privileges and back up database in PostgreSQL](https://medium.com/@akshaych2786/postgresql-create-user-database-grant-privileges-and-back-up-database-in-postgresql-fc4bce88674c?source=rss-6e99077df9a6------2)
+- [Push Notification From Rails 7 To Android and iOS Apps using FCM](https://medium.com/@akshaych2786/push-notification-from-rails-7-to-android-and-ios-apps-using-fcm-6ddd6d2fc0e4?source=rss-6e99077df9a6------2)
+- [Vue.js with Rails 6 and performing CRUD Operations](https://levelup.gitconnected.com/vue-js-with-rails-6-and-performing-crud-operations-b043ef3691f2?source=rss-6e99077df9a6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
