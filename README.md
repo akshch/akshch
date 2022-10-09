@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akshaykumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshch&label=Profile%20views&color=0e75b6&style=flat" alt="akshch" /> </p>
+
+- 🔭 I’m currently working in **Parity Cube**
+
 - 🌱 I’m currently learning **Go language, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akshch](https://github.com/akshch)
+- 👨‍💻 All of my projects are available at [akshch](https://github.com/akshch)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@akshaych2786)
 
