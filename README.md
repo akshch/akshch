@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/akshch/) or by [mail](mailto:akshaych2786@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OoczD-w6XMq5bbylQvWbI2PyUnA42o-Q/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
