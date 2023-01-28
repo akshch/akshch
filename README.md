@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working in **Parity Cube**
 
-- 🌱 I’m currently learning **Go language, React**
+- 🌱 I’m currently learning **Go language, Flutter**
 
 - 👨‍💻 All of my projects are available at [akshch](https://github.com/akshch)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@akshaych2786)
 
-- 💬 Ask me about **Ruby, PostgreSQL**
+- 💬 Ask me about **Ruby on Rails, PostgreSQL**
 
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/akshch/) or by [mail](mailto:akshaych2786@gmail.com)
 
