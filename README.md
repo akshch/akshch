@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Parity Cube**
 
-- 🌱 I’m currently learning **Go language, Flutter**
+- 🌱 I’m currently learning **Go language, React**
 
 - 👨‍💻 All of my projects are available at [akshch](https://github.com/akshch)
 
